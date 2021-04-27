@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "loops to get positve numbers from a list", "loops to get positve numbers from a list\loops to get positve numbers from a list.pyproj", "{829CB8BC-E02A-44B1-91A9-45E2C930EF58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{829CB8BC-E02A-44B1-91A9-45E2C930EF58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{829CB8BC-E02A-44B1-91A9-45E2C930EF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9D09FFC-D7B2-4993-8D54-D36EEB19AC42}
+	EndGlobalSection
+EndGlobal
