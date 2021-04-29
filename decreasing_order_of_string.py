@@ -4,7 +4,7 @@ def descOrder(s):
     print(str1)
  
 def main():
-    s = list('geeksforgeeks')
+    s = list('dineshkumar')
      
     # function call
     descOrder(s)
